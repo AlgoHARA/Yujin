@@ -1,6 +1,5 @@
 room_num = str(input())
 arr = []
-result = 0
 
 for i in range(10):
     arr.append(room_num.count(str(i)))
