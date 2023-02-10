@@ -1,7 +1,7 @@
 arr = []
 num = 1
 
-while(num < 10000): # 100보다 작은 d(n) 전부 구하기
+while(num < 10000): # 10000보다 작은 d(n) 전부 구하기
     res = num
     for i in str(num):
         res += int(i)
