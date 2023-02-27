@@ -1,3 +1,5 @@
+# 소요시간: 15분
+
 from collections import deque
 import sys
 input = sys.stdin.readline
